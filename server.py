@@ -32,7 +32,10 @@ class MyWebServer(socketserver.BaseRequestHandler):
     def handle(self):
         self.data = self.request.recv(1024).strip()
         print ("Got a request of: %s\n" % self.data)
+
         self.request.sendall(bytearray("OK",'utf-8'))
+        # self.wfile.write("Hello Client....Got your message".encode())
+
 
 if __name__ == "__main__":
     HOST, PORT = "localhost", 8080
@@ -43,4 +46,9 @@ if __name__ == "__main__":
 
     # Activate the server; this will keep running until you
     # interrupt the program with Ctrl-C
+
     server.serve_forever()
+    
+    
+   
+    
