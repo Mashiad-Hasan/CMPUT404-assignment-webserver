@@ -21,8 +21,9 @@ server.py contains contributions from:
 
 * Mashiad Hasan (new)
 
-Prepared in consultation with the following collaborator:
+Prepared in consultation with the following collaborators:
 * Braeden Dirksen (new)
+* Fahad Naveed (new)
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
