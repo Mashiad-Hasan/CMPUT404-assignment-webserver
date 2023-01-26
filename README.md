@@ -19,10 +19,10 @@ server.py contains contributions from:
 * Jackson Z Chang
 * Mandy Meindersma 
 
-* Mashiad Hasan 
+* Mashiad Hasan (new)
 
 Prepared in consultation with the following collaborator:
-* Braeden Dirksen (bdirksen@ualberta.ca)
+* Braeden Dirksen (new)
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
