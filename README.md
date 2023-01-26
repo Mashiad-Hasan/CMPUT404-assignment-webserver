@@ -30,7 +30,7 @@ Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
 In the file server.py:
-* The string parsing code (lines 43-45) was adapted from StackOverFlow 
+* The string parsing code (lines 43-45) was adapted from Stack Overflow 
    * Originally Answered by ansetou and David Arenburg
    * URL: https://stackoverflow.com/questions/3368969/find-string-between-two-substrings
 
